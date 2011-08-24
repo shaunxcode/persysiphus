@@ -1,1 +1,6 @@
-a php 5.4 orm
+The basi idea is to have a persistent editing environment. 
+
+you can "zoom" in and out into clusters of entities. 
+Overlapping will not be allowed
+mini map/"entity dock" will help keep track of things which may otherwise be too small to see
+ace editor will be used for modifying files.
